@@ -1,0 +1,12 @@
+
+=== Wed Mar 16 15:44:17 2022
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.2d.animation from version 5.0.7 to 5.0.8
+  com.unity.2d.psdimporter from version 4.1.0 to 4.1.1
+  com.unity.2d.spriteshape from version 5.1.4 to 5.1.5
+  com.unity.collab-proxy from version 1.9.0 to 1.13.5
+  com.unity.ide.vscode from version 1.2.3 to 1.2.4
